@@ -62,7 +62,7 @@ PRODUCT_BROKEN_VERIFY_USES_LIBRARIES := true
 
 PRODUCT_PACKAGES += \
     uinput-titan \
-    gargoyleSettings \
+    jinnSettings \
     Kika-Input \
     OpenCamera \
 

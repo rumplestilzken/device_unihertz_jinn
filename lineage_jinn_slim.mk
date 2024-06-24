@@ -13,7 +13,7 @@ $(call inherit-product, device/unihertz/common.mk)
 #PRODUCT_NAME = Titan
 #PRODUCT_MODEL = Titan
 
-RESOURCE_PATH := device/unihertz/gargoyle_slim
+RESOURCE_PATH := device/unihertz/jinn_slim
 
 #Init Scripts
 PRODUCT_COPY_FILES += \

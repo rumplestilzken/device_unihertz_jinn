@@ -4,11 +4,11 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_MODULE := gargoyleSettings
+LOCAL_MODULE := jinnSettings
 
 LOCAL_CERTIFICATE := platform
 
-LOCAL_SRC_FILES := gargoyleSettings.apk
+LOCAL_SRC_FILES := jinnSettings.apk
 
 LOCAL_MODULE_CLASS := APPS
 

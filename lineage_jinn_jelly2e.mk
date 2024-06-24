@@ -1,6 +1,6 @@
 $(call inherit-product, device/unihertz/common.mk)
 
-RESOURCE_PATH := device/unihertz/gargoyle_jelly2e
+RESOURCE_PATH := device/unihertz/jinn_jelly2e
 
 #Init Scripts
 PRODUCT_COPY_FILES += \

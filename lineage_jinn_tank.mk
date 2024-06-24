@@ -14,7 +14,7 @@ $(call inherit-product, device/unihertz/common.mk)
 #PRODUCT_NAME = TANK 01
 #PRODUCT_MODEL = TANK_01
 
-RESOURCE_PATH := device/unihertz/gargoyle_tank
+RESOURCE_PATH := device/unihertz/jinn_tank
 
 #Init Scripts
 PRODUCT_COPY_FILES += \

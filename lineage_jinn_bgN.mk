@@ -1,8 +1,8 @@
 $(call inherit-product, device/phh/treble/lineage_arm64_bgN.mk)
-$(call inherit-product, device/unihertz/lineage_gargoyle.mk)
+$(call inherit-product, device/unihertz/lineage_jinn.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := gargoyle
+PRODUCT_DEVICE := jinn
 PRODUCT_BRAND := Unihertz
 PRODUCT_SYSTEM_BRAND := Unihertz
 PRODUCT_MANUFACTURER := A-gold
